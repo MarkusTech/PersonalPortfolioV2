@@ -750,7 +750,7 @@ main {
 
 .clients-item img {
   width: 100px;
-  filter: grayscale(1);
+/*   filter: grayscale(1); */
   transition: var(--transition-1);
 }
 
